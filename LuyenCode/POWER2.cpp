@@ -37,8 +37,7 @@ string power(string a,int n){
 }
 int main(){
 
-    ios::sync_with_stdio(0);
-    cin.tie(0);  cout.tie(0);
+    ios::sync_with_stdio(false);  cin.tie(NULL);  cout.tie(NULL);
     string a;
     int n;
     cin >> a >> n;
