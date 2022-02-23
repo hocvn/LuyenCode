@@ -1,3 +1,4 @@
-# LuyenCode
+# Accepted code
 
-My solutions acceppted
+My solutions accepted
+Use Crt+F to find problem
