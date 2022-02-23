@@ -1,7 +1,7 @@
 #include <iostream>
 #include <algorithm>
 using namespace std;
-
+	
 #define N 40004
 #define K 404
 int n,h[K],c[K],a[K],p[K],res;
