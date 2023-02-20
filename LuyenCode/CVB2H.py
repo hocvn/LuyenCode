@@ -3,7 +3,7 @@ def convertToBase16(s) :
 	ret = ''
 	valueInBinary = 0
 
-	for i in range(len(n)) : 
+	for i in range(len(s)) : 
 		
 		valueInBinary += (1 << (3 - (i % 4))) * int(s[i])
 	
