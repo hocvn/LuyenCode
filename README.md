@@ -1,6 +1,5 @@
-# Accepted code
+# My accepted code
 
 My solutions accepted on online judges  
 Use `Ctrl+F` to find problem  
-[LuyenCode](https://oj.luyencode.net/)
-
+Web: [LuyenCode](https://oj.luyencode.net/)
