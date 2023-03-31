@@ -28,7 +28,7 @@ int main() {
                 res++;
             }
         }
-        if (st[top].first == a[i]){
+        if (!top && st[top].first == a[i]){
             st[top].second++;
         }
         if (!top || st[top].first > a[i]){
